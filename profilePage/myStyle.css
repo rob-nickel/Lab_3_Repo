@@ -1,0 +1,32 @@
+
+
+p.bio{
+        background-color: LightSteelBlue;
+        text-align: justify;
+        color: Black;
+}
+p.bio:hover{
+        background-color: SteelBlue;
+        color: MediumBlue;
+}
+
+p.myName{
+        color: White;
+        text-align: center;
+        font-size: 150;
+}
+
+a{
+        background-color: LightSteelBlue;
+        font-family: serif;
+        color: Black;
+}
+
+body{
+        background-color: DarkSlateGray;
+        color: White;
+        background-image: url(background.JPG);
+        background-size: 100%;
+        background-repeat: round;
+        background-attachment: scroll;
+}
